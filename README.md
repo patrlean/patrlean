@@ -14,16 +14,16 @@ I build AI agents, evaluation tools, and small tools for everyday development.
 ## Start Here
 
 - 🧮 **[Modeling Workspace](https://mathemodel.com/)** — Try the mathematical modeling agent.
-- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — Create your own board; @mention its plugin in ChatGPT to sync progress automatically.
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook#install-in-codex)** — Enable automatic Codex progress updates for enrolled projects.
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — Lay out work scattered across AI chats; @mention its plugin in ChatGPT to sync progress automatically.
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook#install-in-codex)** — Keep enrolled projects in sync from Codex, with context to return to when you switch tasks.
 
 ## Current Projects
 
 ### Agents & Developer Tools
 
 - 🧮 **[Open Math Model Agent](https://github.com/patrlean/open-math-model-agent)** — A local-first workspace from problem intake to code, paper, and verification.
-- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — An idea-to-launch board that updates from ChatGPT and Codex conversations, without manual status maintenance.
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook)** — Turn Codex conversations into factual progress summaries and automatic board updates for enrolled projects.
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — An overview of work scattered across AI windows and chats, designed to ease the strain of switching between tasks. Status updates from your conversations, without manual maintenance.
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook)** — Automatically record and sync enrolled projects from Codex, so you can find the progress and next step when you return, with less to keep in your head.
 
 ### Evaluation & Benchmarks
 
