@@ -14,14 +14,16 @@ I build AI agents, evaluation tools, and small tools for everyday development.
 ## Start Here
 
 - 🧮 **[Modeling Workspace](https://mathemodel.com/)** — Try the mathematical modeling agent.
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook#install-in-codex)** — Install reusable Codex progress hooks.
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — Create your own board; @mention its plugin in ChatGPT to sync progress automatically.
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook#install-in-codex)** — Enable automatic Codex progress updates for enrolled projects.
 
 ## Current Projects
 
 ### Agents & Developer Tools
 
 - 🧮 **[Open Math Model Agent](https://github.com/patrlean/open-math-model-agent)** — A local-first workspace from problem intake to code, paper, and verification.
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook)** — Track selected Codex projects locally or sync progress to your own dashboard.
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site)** — An idea-to-launch board that updates from ChatGPT and Codex conversations, without manual status maintenance.
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook)** — Turn Codex conversations into factual progress summaries and automatic board updates for enrolled projects.
 
 ### Evaluation & Benchmarks
 
