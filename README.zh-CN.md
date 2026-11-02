@@ -14,14 +14,16 @@
 ## 从这里开始
 
 - 🧮 **[数学建模工作区](https://mathemodel.com/)** — 体验数学建模 Agent。
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook/blob/main/README.zh-CN.md#安装)** — 安装可复用的项目进展 hook。
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site/blob/main/README.zh-CN.md)** — 创建自己的看板，网页对话 @插件即可自动同步进展。
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook/blob/main/README.zh-CN.md#安装)** — 为已登记的项目启用 Codex 自动进展同步。
 
 ## 当前项目
 
 ### Agent 与开发工具
 
 - 🧮 **[Open Math Model Agent](https://github.com/patrlean/open-math-model-agent)** — 从题目、代码到论文和核验的数学建模 Agent 工作区。
-- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook)** — 通过 Codex hook 跟踪指定项目，支持本地记录和看板同步。
+- 🗂️ **[Idea Flows Site](https://github.com/patrlean/idea-flows-site/blob/main/README.zh-CN.md)** — 根据 ChatGPT 与 Codex 对话自动更新的想法到上线看板，无需手动维护项目状态。
+- 🧭 **[Idea Flows Hook](https://github.com/patrlean/idea-flows-hook/blob/main/README.zh-CN.md)** — 从 Codex 对话生成实际进展摘要，为已登记的项目自动记录并同步看板。
 
 ### 评估与基准
 
